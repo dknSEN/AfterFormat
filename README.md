@@ -1,5 +1,5 @@
 # AfterFormat
-Windows 10 Tweaks Editor
+Windows 10 Tweaks Software
 
 <h2>📜About the Project</h2>
 
